@@ -1,5 +1,0 @@
-nice freeplay menu
-nice options menu
-make main menu less cluttered
-modifiers
-typical vsrg options
